@@ -1,3 +1,11 @@
+# Uitproberen
+
+```
+python -m pipenv install
+python -m pipenv shell
+python main.py
+```
+
 # Info
 
 Deze repository werd gemaakt met volgende commando's
